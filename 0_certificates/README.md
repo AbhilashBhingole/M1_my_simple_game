@@ -1,5 +1,5 @@
 # certificates
 * sololearn - c programming language
 * NDG LINUX
-* git
-* github - Screenshot
+* Git
+* First day on Github - Screenshot
