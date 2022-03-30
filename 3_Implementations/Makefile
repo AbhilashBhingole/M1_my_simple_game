@@ -6,7 +6,7 @@
 
 Build:
 
-gcc snake_game1.c unity/unity.c -Iunity
+gcc snake_game1.c ../unity/unity.c -Iunity
 
 Run:
       ./snake_game1.exe
