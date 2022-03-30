@@ -14,4 +14,4 @@ push:
   steps:
   uses:actions/checkout@v2
   name:build
-  run: -c 3_Implementations/snake_game1
+  run: -c 3_Implementations
