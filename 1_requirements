@@ -1,1 +1,3 @@
-
+   Introduction:
+   This is a command line interface game. The name of the game is Snake.
+   The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake. In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves.
