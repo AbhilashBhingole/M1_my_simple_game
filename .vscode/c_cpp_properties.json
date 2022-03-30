@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "C:\\Users\\91902\\Desktop\\Snake-game\\M1_my_simple_game-1\\3_Implementations",
+                "${workspaceFolder}/Unity"
+            ],
+            "defines": [],
+            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
