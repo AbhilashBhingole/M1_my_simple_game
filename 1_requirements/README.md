@@ -1,6 +1,11 @@
  Introduction:
    This is a command line interface game. The name of the game is Snake.
    The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake. In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves.
+   
+   
+   
+   
+   
    SWOT ANALYSIS
 S - Strength
 Works in all kind of OS.
@@ -12,6 +17,10 @@ We can make it's GUI.
 user can move and get the food and increase snake's size.
 T - Threat
 Using file Handling makes it a bit slower.
+
+
+
+
 4W's and 1'H
 Who:
 Anyone who thinks that working all day is monotonous and He/She needs some refreshment can play this game.
